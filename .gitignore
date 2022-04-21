@@ -1,0 +1,39 @@
+# Runtime data
+pids
+*.pid
+*.seed
+allFiredEvents
+scTopics
+
+# truffle build directory
+build
+
+# Zeppelin SDK
+.openzeppelin/.session
+
+# macOS
+.DS_Store
+
+# IntelliJ IDE
+.idea
+
+.env
+typechain
+
+# Coverage
+coverage
+coverage.json
+coverageEnv
+
+# Artifacts
+cache
+artifacts
+.husky
+
+# Logs
+logs
+*.log
+
+node_modules
+
+.vscode
